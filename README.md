@@ -41,3 +41,6 @@ Notes
 - Android support is experimental.
 - Keep Python updated to the latest stable version.
 - If the program crashes, restart it and try again.
+# NEW UPDATE :
+•ADDED CRASH ALL APP 
+•WORK WITH ALL DEVICES CRASH ALL APP
