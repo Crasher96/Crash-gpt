@@ -1,0 +1,35 @@
+import time
+import sys
+import random
+
+print("=== ChatGPT Simulator ===\n")
+
+q = 0
+while True:
+    user = input("You: ")
+    q += 1
+    
+    responses = [
+        "That's a great question. Here's my detailed analysis...",
+        "Let me process this step by step...",
+        "Based on my training data...",
+        "Interesting perspective. Expanding on that..."
+    ]
+    print("ChatGPT:", random.choice(responses))
+    time.sleep(0.7)
+    
+    if q > 5:
+        print("ChatGPT: Context window expanding...")
+        time.sleep(0.4)
+        print("ChatGPT: Token limit exceeded...")
+        time.sleep(0.4)
+        print("ChatGPT: GPU memory overflow...")
+        time.sleep(0.6)
+        
+        # Multi-crash
+        big_list = []
+        for i in range(100000):
+            big_list.append([0] * 1000)
+        
+        print("ChatGPT: Critical failure.")
+        1 / 0
