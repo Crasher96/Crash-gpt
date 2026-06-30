@@ -1,32 +1,46 @@
-Python Support
+# 🚀 Python Support
 
-Important
+# 📢 UPDATE
 
-This project is only compatible with devices that support Python.
+# 😢 Android Support
 
-Supported Platforms
+Hey everyone,
+
+I recently found out that Android is actually not supported.
+
+Sorry for the confusion.
+
+# ✅ Supported Platforms
+
+# ✔️ Supported
 
 - Windows
 - Linux
 - macOS
-- Android (may work with ChatGPT or a compatible Python app)
 
-Download Python
+# ❌ Unsupported
+
+- Android
+
+# 📥 Download Python
 
 Official website:
-"https://www.python.org/downloads/" (https://www.python.org/downloads/)
 
-Windows Setup
+https://www.python.org/downloads/
+
+# 💻 Windows Setup
+
+Installation
 
 1. Download Python.
 2. Open the installer.
-3. Select Add Python to PATH.
+3. Check Add Python to PATH.
 4. Click Install Now.
-5. Wait for the installation to complete.
+5. Wait for the installation to finish.
 
-Verify Python
+# ▶️ Verify Python
 
-Run one of the following commands:
+Run one of these commands
 
 python --version
 
@@ -34,14 +48,16 @@ or
 
 python3 --version
 
-Notes
+# ⚠️ Notes
 
-- This is a demo project.
-- Some features may not work on every device.
-- Android support is experimental.
+Important
+
+- This project only works on supported Python devices.
+- Android is not supported.
 - Keep Python updated to the latest stable version.
 - If the program crashes, restart it and try again.
-# NEW UPDATE :
-•ADDED CRASH ALL APP 
-•WORK WITH ALL DEVICES CRASH ALL APP
+
+# ❤️ Thank You
+
+Thank you for your support and understanding!
 
